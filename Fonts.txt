@@ -1,9 +1,0 @@
-Fonts used in this design:
-
-Font: Sunflower
-Author: JIKJISOFT
-Url: https://fonts.google.com/specimen/Sunflower
-
-Font: Federo
-Author: Cyreal
-Url: https://fonts.google.com/specimen/Federo
